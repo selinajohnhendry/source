@@ -2,7 +2,7 @@
 int main() {   
     int number;
    
-    printf("Enter an integer: ");  
+    printf("Enter an number: ");  
     
     // reads and stores input
     scanf("%d", &number);
